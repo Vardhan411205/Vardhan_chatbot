@@ -1,6 +1,7 @@
 body {
   font-family: "Open Sans", sans-serif;
-  background: url("../img/download1.jpg") no-repeat center center fixed;
+  background: url("../img/body4.png") no-repeat center center fixed;
+  background-size: cover;
 }
 
 /* ============= css related to chats =============== */
